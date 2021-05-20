@@ -10,7 +10,7 @@ var score = 0;
 
 function preload() {
   backgroundImg = loadImage("bgImg.jpg");  
-  fairyImg = loadImage("fairyImg.png");
+  fairyImg = loadImage("FairyImg.png");
   BowlImg = loadImage("Bowl1.png");
 }
 
